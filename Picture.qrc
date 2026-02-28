@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pictrue/610bd505d6c22f691cef282fe184b0a.jpg</file>
+        <file>pictrue/cancel.png</file>
+        <file>pictrue/login.png</file>
+        <file>pictrue/logo.png</file>
+        <file>pictrue/passwd.jpg</file>
+        <file>pictrue/qq.gif</file>
+        <file>pictrue/qq.png</file>
+        <file>pictrue/qq2.gif</file>
+        <file>pictrue/userName.jpg</file>
+        <file>pictrue/wodepeizhenshi.png</file>
+        <file>pictrue/zz.gif</file>
+    </qresource>
+</RCC>
